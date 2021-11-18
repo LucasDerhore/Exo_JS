@@ -1,6 +1,5 @@
 # Exo_JS
 
-https://img.shields.io/static/v1?label=<LABEL>&message=<Javascript>&color=<yellow>
 
 ## Script 1
 
@@ -21,12 +20,7 @@ index.html : `<script src="script_2.js"></script>` sous le `body` gros BG
 ##Script 3
 
 `"Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ?"
-  // Utilisateur rentre un nombre (par ex 5)
-    #
-   ##
-  ###
- ####
-#####`
+  // Utilisateur rentre un nombre (par ex 5)`
 
 index.html : `<script src="script_3.js"></script>` sous le `body` FAT BG
 
